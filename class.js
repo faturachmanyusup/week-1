@@ -21,6 +21,6 @@
  *    - energy        = 10
  *    - isDangerous   = false
  *  method:
- *    - roar          = mengeluarkan output/return "Roarrrrr"
+ *    - roar          = mengeluarkan output/return "Meoww"
  *    - die           = merubah isDangerous menjadi false
  */
